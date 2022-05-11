@@ -1,5 +1,5 @@
 package practicePackage;
 
-public class newclass {
+public class THISISNEW {
 
 }
